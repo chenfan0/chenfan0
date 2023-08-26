@@ -1,7 +1,7 @@
 
   
 ### Hi there 👋
-I'm currently a student and a front-end programmer.
+I'm a front-end programmer.
 
 💬 微信: cf1490040662
 
