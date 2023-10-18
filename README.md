@@ -7,7 +7,6 @@ I'm a front-end programmer.
 
 ✉️ Mail: 1490040662@qq.com
 
-📑 掘金：[每天进步一丢丢](https://juejin.cn/user/1126370596894606/)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenfan0&show_icons=true&theme=tokyonight)
